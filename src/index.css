@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* opcional: mejor render */
+html, body {
+  height: 100%;
+}
