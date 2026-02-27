@@ -42,7 +42,7 @@ export default function Profile() {
                 <div className="rounded-[30px] bg-white/70 p-2 backdrop-blur">
                   <img
                     src={cristelImg}
-                    alt="Cristel Alejandra - Nail Artist"
+                    alt="Cristell Alejandra - Nail Artist"
                     className="
                       h-32 w-28 sm:h-40 sm:w-32
                       rounded-[24px] object-cover
@@ -71,7 +71,7 @@ export default function Profile() {
 
               <div className="flex items-center gap-2">
                 <h3 className="mt-1 text-2xl sm:text-3xl font-semibold text-black leading-tight">
-                  Cristel Alejandra
+                  Cristell Alejandra
                 </h3>
               </div>
 
@@ -158,4 +158,5 @@ export default function Profile() {
       </div>
     </section>
   );
+
 }
